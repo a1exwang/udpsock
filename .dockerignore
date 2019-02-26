@@ -1,0 +1,7 @@
+Dockerfile
+build.sh
+cmake-*
+build
+.dockerignore
+run.sh
+.git
